@@ -6,7 +6,7 @@ I'm a curious and enthusiastic developer who loves to continuously learn.
 - 🩵 I’m interested in building an e-commerse site as my next passion project 
 - 🌱 I’m currently learning React, NodeJS, and MongoDB
 - 🛼 I also love to read, paint, and rollerskate
-- 💬 Lets connect on LinkedIn
+- 💬 Lets connect on LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/juliawalton/))
 
 <!---
 JuliaWalton/JuliaWalton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
