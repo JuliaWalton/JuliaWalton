@@ -3,8 +3,8 @@ Hi there!👋
 I'm a curious and enthusiastic developer who loves to continuously learn.
 
 - 🪁 I use daily: `.js`, `.html`, `.css`, `.psd`, `.ai`
-- 💗 I’m interested in building an e-commerse site as my next passion project 
 - 🌱 I’m currently learning React, NodeJS, and MongoDB
+- - 💗 I’m interested in building an e-commerse site as my next passion project 
 - 🛼 I also love to read, paint, and rollerskate
 
 <!---
