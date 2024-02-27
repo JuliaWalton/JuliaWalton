@@ -1,6 +1,6 @@
 Hi there!👋
 
-I'm a curious and enthusiastic developer who loves to continuously learn.
+I'm an enthusiastic developer who loves to continuously learn.
 
 - 🪁 I use daily: `.js`, `.html`, `.css`, `.psd`, `.ai`
 - 🌱 I’m currently learning React, NodeJS, and MongoDB
